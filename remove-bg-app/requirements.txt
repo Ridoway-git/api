@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 transformers==4.33.2
-torch
-torchvision
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
 Pillow
+tokenizers==0.13.3
